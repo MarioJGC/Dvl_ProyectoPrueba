@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_dv_proyecto_prueba_dv_proyecto_prueba,dv_proyecto_prueba.dv_proyecto_prueba,model_dv_proyecto_prueba_dv_proyecto_prueba,base.group_user,1,1,1,1
